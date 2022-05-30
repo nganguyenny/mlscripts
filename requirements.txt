@@ -28,6 +28,6 @@ joblib
 memoized-property
 termcolor
 
-# preprocessing
+# preprocessing steps
 nltk
 unidecode
